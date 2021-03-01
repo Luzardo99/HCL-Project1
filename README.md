@@ -5,6 +5,6 @@
 ![image](https://github.com/Luzardo99/HCL-Project1/blob/main/IMG_1034.jpg)
 
 
-<img src="https://github.com/Luzardo99/HCL-Project1/blob/main/IMG_1034.jpg" width="48">
+<img src="https://github.com/Luzardo99/HCL-Project1/blob/main/IMG_1034.jpg">
 
 
