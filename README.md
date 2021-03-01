@@ -1,3 +1,3 @@
 # HCL-Project1
 
-![](200W.GIF)
+![](https://github.com/Luzardo99/HCL-Project1/blob/main/200w.GIF)
