@@ -13,5 +13,5 @@ The most common use of this particular microwave is the function shown in the gi
 The microwave isn’t designed to help new users but is meant for people that have used on before but at the same time is pretty intuitive that it shouldn’t take too long to get the hang of it. It provides feedback when you press the buttons by both the feel of button clicking and then the sound it makes every time a button is clicked. The most common mistake possible with this microwave is you might have the wrong power setting.
 
 
-<img src="https://github.com/Luzardo99/HCL-Project1/blob/main/IMG_1037.HEIC" width="600">
+<img src="https://github.com/Luzardo99/HCL-Project1/blob/main/IMG_1037.jpg" width="600">
 
