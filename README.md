@@ -15,3 +15,5 @@ The microwave isn’t designed to help new users but is meant for people that ha
 
 <img src="https://github.com/Luzardo99/HCL-Project1/blob/main/IMG_1037.jpg" width="600">
 
+
+This design I sketched keeps the same simple design with all the useless buttons. The buttons I added was the power up and power down so it would be easier to control the power output. I also put in a 30 sec and minute button so people could control the time even easier.
