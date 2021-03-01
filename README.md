@@ -1,3 +1,3 @@
 # HCL-Project1
 
-![](200W.gif)
+![](200W.GIF)
